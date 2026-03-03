@@ -4,3 +4,4 @@ Medieval Asset Pack - https://assetstore.unity.com/packages/3d/props/furniture/m
 Plank Flooring - https://polyhaven.com/a/plank_flooring_04
 Slate Floor - https://polyhaven.com/a/slate_floor
 Skybox - https://polyhaven.com/a/the_sky_is_on_fire
+Candle Flames - https://assetstore.unity.com/packages/vfx/shaders/candle-flame-shader-317942
